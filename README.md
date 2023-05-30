@@ -22,11 +22,19 @@ You will need to have python installed as well as diverse packages.
 
 3. Save.py: Formats the saved data into a .dat file with tabulation as delimitation. 
 
-4. 
+4. GUI_functions.py: Builds the GUI and contains sub-GUIs for specific instruments
+
+5. Main.py: File to run to start the GUI
+
 # Run the program
 
 First you'll need to establish a connection to the desired instruments by running Load_Instruments.py.
 
-Then run Main.py
+Then run Main.py which will open a GUI to program and plot the measurement. The GUI is composed of:
+1. A save tab. Tick the save box to save the measurement. Choose and filename and a folder to save the file in.
+2. A note tab. The note will be added in the saved file before the header.
+3. Real time data display. Tick the box to plot the desired data in the graphic part, change the color and get the real time output of selected instrument. To change the x-axis choose an output in the "X to plot" dropdown menu.
+4. An Intruments tab: allows to control insutruments outside of loops (set an output on for example)
+5. A Loop tab where measurement loops can be programmed
   
   
