@@ -1,4 +1,4 @@
-# DeanLab_Data_Aquisition
+# DeanLab_Data_Acquisition
 
 Python code to interface with instruments (write and read) throug a GUI for transport measurements and more!
 Written by Maëlle Kapfer and Jordan Pack.
