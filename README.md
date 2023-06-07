@@ -9,10 +9,9 @@ You will need to have python installed as well as diverse packages.
 1. Install python through Anaconda https://www.anaconda.com.
 
 2. Install libraries needed to run the program:
-  PyQt5
-  pyqtgraph
+  PyQt5 (https://anaconda.org/anaconda/pyqt) and pyqtgraph (https://www.pyqtgraph.org)
   
-3. Download QCodes 
+3. Download QCodes (https://qcodes.github.io/Qcodes/)
 
 # List of files
 
