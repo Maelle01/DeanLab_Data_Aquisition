@@ -38,3 +38,4 @@ Then run Main.py which will open a GUI to program and plot the measurement. The 
 5. A Loop tab where measurement loops can be programmed
   
   
+Note: the code is still being updated and new capabilities added.
