@@ -1,0 +1,3 @@
+name: Config7_GSweep_1p5K_14T
+folder: C:/Users/Cory Dean/Desktop/USER DATA/Maelle/tBLG-Noodle057/Load After Regen/Yes Filters
+notes: 

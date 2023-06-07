@@ -1,0 +1,34 @@
+Name=BG
+Instrument=Keithley 2400
+GPIB=14
+channels=[True, False]
+
+Name=I
+Instrument=SR830
+GPIB=2
+channels=[True, False, False, True]
+
+Name=Lockin1
+Instrument=SR830
+GPIB=3
+channels=[True, False, False, True]
+
+Name=Lockin2
+Instrument=SR830
+GPIB=4
+channels=[True, False, False, True]
+
+Name=Lockin3
+Instrument=SR860
+GPIB=1
+channels=[True, False, False, True]
+
+Name=T
+Instrument=iTC 3He
+GPIB=
+channels=[True, True, True, True]
+
+Name=B
+Instrument=AMI 430 3He
+GPIB=
+channels=[True]
